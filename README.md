@@ -1,23 +1,23 @@
 ## Compiler Construction Final Product
 This is a C compiler written in C using Flex and Bison.
 The following files were provided by Dr. Stephen Fenner
-backend-x86.c/h
-bucket.c/h
-defs.c/h
-gram.y (Only the grammar, all rules were written by me)
-main.c
-message.c/h
-scan.l
-symtab.c/h
-type.c/h
-utls.c/h
+-backend-x86.c/h
+-bucket.c/h
+-defs.c/h
+-gram.y (Only the grammar, all rules were written by me)
+-main.c
+-message.c/h
+-scan.l
+-symtab.c/h
+-type.c/h
+-utls.c/h
 
 The following files were written by me:
-eval.c/h
-gram.y (only the rules)
-myarray.c/h
-README (you're reading it!)
-tree.c/h
+-eval.c/h
+-gram.y (only the rules)
+-myarray.c/h
+-README (you're reading it!)
+-tree.c/h
 
 ## DISCLAIMER
 I do not endorse the use of this code to be used by students who are currently in Compiler Construction. Do the right thing and do it on your own. You'll thank yourself in the future, trust me. You also add the risk of multiple students trying to use my code and get caught by MOSS. Don't do it.
