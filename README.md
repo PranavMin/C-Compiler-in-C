@@ -24,7 +24,7 @@ I do not endorse the use of this code to be used by students who are currently i
 https://www.youtube.com/watch?v=hMloyp6NI4E
 
 
-Added Files:
+# Added Files:
 * tree.c/h - All tree data structures are defined here with their functions. Creates expression trees and declaration trees.
 * myarray.c/h - Array data structures defined here. One is a dynamically resizing array for storing multiple declarations in a line. The other is a stack to define what the current loop/switch block we are in.
 * eval.c/h - Used for evaluating the tree data structures in tree.c/h. Evaluates expression trees (with constant folding) and declaration trees, installing them at the end.
